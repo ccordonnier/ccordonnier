@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ccordonnier
-- 👀 I’m looking for working as Javascript Web developper
+- 👀 I’m ready to work as Javascript Web developper
 - 🌱 I'm currently learning and mastering React and Next JS
 - 💞️ I’m looking to collaborate on every project
 - 📫 How to reach me : corentincordonnier@hotmail.fr
