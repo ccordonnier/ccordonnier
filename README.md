@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ccordonnier
+- 👋 Hi, I’m @ccordonnier and i'm based on Lille, France
 - 👀 I’m ready to work as Javascript Web developper
 - 🌱 I'm currently learning and mastering React and Next JS
 - 💞️ I’m looking to collaborate on every project
