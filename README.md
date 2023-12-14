@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ccordonnier
-- 👀 I’m interested in Full stack developpement
-- 🌱 I’m currently learning Javascript library (React, nodejs ...)
+- 👀 I’m looking for working as Javascript Web developper
+- 🌱 I'm currently learning and mastering React and Next JS
 - 💞️ I’m looking to collaborate on every project
 - 📫 How to reach me : corentincordonnier@hotmail.fr
 
